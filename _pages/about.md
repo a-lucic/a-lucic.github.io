@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor in AI at the University of Amsterdam, with a joint position between the Institute for Logic, Language, and Computation, and the Informatics Institute. My work focuses on interpretable machine learning for applications in science and society. Previously, I was a researcher at Microsoft Research Amsterdam and at the Partnership on AI. I have a PhD in explainable ML from the University of Amsterdam, along with an MSc and BSc, both in mathematics, from McMaster University in Canada.
+I am an assistant professor in AI at the [University of Amsterdam](https://www.uva.nl), with a joint position between the [Institute for Logic, Language, and Computation](https://www.illc.uva.nl), and the [Informatics Institute](https://ivi.uva.nl). My work focuses on interpretable machine learning for applications in science and society. Previously, I was a researcher at [Microsoft Research AI for Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) and at the [Partnership on AI](https://partnershiponai.org). I have a PhD in explainable ML from the University of Amsterdam, supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Hinda Haned](https://hindantation.github.io). My MSc and BSc are both in mathematics from [McMaster University](https://math.mcmaster.ca) in Canada, both supervised by [Miroslav Lovric](https://math.mcmaster.ca/lovric/lovric.html). 
 
-## Latest News
-- **[December 2024]** I'm hiring! We have a [PhD position available](https://www.illc.uva.nl/NewsandEvents/News/Positions/newsitem/15320/PhD-Position-in-Mechanistic-Interpretability) at the UvA on mechanistic interpretability. 
+# News
+- **[December 2024]** I'm hiring! We have a [PhD position available](https://www.illc.uva.nl/NewsandEvents/News/Positions/newsitem/15320/PhD-Position-in-Mechanistic-Interpretability) at the UvA on mechanistic interpretability.
 - **[November 2024]** I've return to the University of Amsterdam as an assistant professor! Looking forward to seeing old faces and meeting new ones.
 - **[May 2024]** Our [paper](https://arxiv.org/abs/2405.13063) about Aurora: a foundation model for the Earth system is out on arXiv.
 - **[May 2024]** Our [paper](https://arxiv.org/abs/2402.14730) on Clifford-Steerable CNNs has been accepted to ICML 2024.
