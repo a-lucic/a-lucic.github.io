@@ -16,6 +16,7 @@ Work experience
 * Assistant Professor, Artificial Intelligence at the University of Amsterdam
 * Researcher, AI for Science at Microsoft Research Amsterdam
 * Research Fellow, Explainable Machine Learning at the Partnership on AI
+* Modeling Analyst, Credit Risk at Canadian Tire Bank
 
 Education
 ======
@@ -28,7 +29,8 @@ Education
 
 Teaching
 ======
-* 2024 - 2025: Interpretability and Explainability in AI, University of Amsterdam
-* 2024 - 2025: NLP 2, University of Amsterdam
-* 2024 - 2025: Applied Machine Learning, University of Amsterdam
-* 2020 - 2021: Fairness, Accountability, Confidentiality, Transparency in AI, University of Amsterdam
+* Interpretability and Explainability in AI, University of Amsterdam, 2025
+* NLP 2, University of Amsterdam, 2025
+* Applied Machine Learning, University of Amsterdam, 2024
+* Fairness, Accountability, Confidentiality, Transparency in AI, University of Amsterdam, 2021
+* Fairness, Accountability, Confidentiality, Transparency in AI, University of Amsterdam, 2020
