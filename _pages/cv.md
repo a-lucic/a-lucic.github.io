@@ -29,7 +29,7 @@ Education
 
 Teaching
 ======
-* Interpretability and Explainability in AI, University of Amsterdam, 2025 -- Present
-* Applied Machine Learning, University of Amsterdam, 2024 -- Present
+* Interpretability and Explainability in AI, University of Amsterdam, 2025-Present
+* Applied Machine Learning, University of Amsterdam, 2024-Present
 * NLP 2, University of Amsterdam, 2025
-* Fairness, Accountability, Confidentiality, Transparency in AI, University of Amsterdam, 2020 -- 2021
+* Fairness, Accountability, Confidentiality, Transparency in AI, University of Amsterdam, 2020-2021
