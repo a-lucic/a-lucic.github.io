@@ -13,6 +13,7 @@ My PhD in explainable ML is from the University of Amsterdam, supervised by [Maa
 My MSc and BSc are both in mathematics from [McMaster University](https://math.mcmaster.ca) in Canada, both supervised by [Miroslav Lovric](https://math.mcmaster.ca/lovric/lovric.html). 
 
 # News
+- **[Feb 2026]** Our [paper](https://arxiv.org/abs/2512.08923) on cross-modal inconsistency in multimodal LLMs has been accepted to CVPR 2026!
 - **[Nov 2025]** We have two papers accepted to the Mechanistic Interpretability workshop at NeurIPS 2025! One is about [equivariant SAEs](https://openreview.net/pdf?id=wpzRkAW2Sy), the other is about [causal abstraction as a framework for faithfulness](https://openreview.net/pdf?id=b0rXC856Sm). 
 - **[May 2025]** Our [paper](https://www.nature.com/articles/s41586-025-09005-y) about Aurora: a foundation model for the Earth system has been published in Nature!
 - **[May 2025]** [Ege Erdogan](https://erdogan.dev) has joined us as a new PhD student working on mechanistic interpretability. Welcome Ege!
