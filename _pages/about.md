@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor in AI at the [University of Amsterdam](https://www.uva.nl), working on explainable AI for scientific applications (XAI for Science). 
+I am an assistant professor in AI at the [University of Amsterdam](https://www.uva.nl), working on scientific machine learning, interpretability, and AI safety. 
 I have a joint position between the [Institute for Logic, Language, and Computation](https://www.illc.uva.nl), and the [Informatics Institute](https://ivi.uva.nl). 
 Previously, I was a researcher at [Microsoft Research AI for Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) and at the [Partnership on AI](https://partnershiponai.org). 
 My PhD in explainable ML is from the University of Amsterdam, supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Hinda Haned](https://hindantation.github.io). 
