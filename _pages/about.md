@@ -9,7 +9,7 @@ redirect_from:
 I am an assistant professor in AI at the [University of Amsterdam](https://www.uva.nl), working on scientific machine learning, interpretability, and AI safety. 
 I have a joint position between the [Institute for Logic, Language, and Computation](https://www.illc.uva.nl), and the [Informatics Institute](https://ivi.uva.nl). 
 Previously, I was a researcher at [Microsoft Research AI for Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) and at the [Partnership on AI](https://partnershiponai.org). 
-My PhD in explainable ML is from the University of Amsterdam, supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Hinda Haned](https://hindantation.github.io). 
+My PhD in explainable ML is from the [University of Amsterdam](https://www.uva.nl/en), supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Hinda Haned](https://hindantation.github.io). 
 My MSc and BSc are both in mathematics from [McMaster University](https://math.mcmaster.ca) in Canada, both supervised by [Miroslav Lovric](https://math.mcmaster.ca/lovric/lovric.html). 
 
 # News
