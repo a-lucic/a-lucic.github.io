@@ -6,11 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor in AI at the [University of Amsterdam](https://www.uva.nl), working on scientific machine learning, interpretability, and AI safety. 
+I am an assistant professor in machine learning at the [University of Amsterdam](https://www.uva.nl).
 I have a joint position between the [Institute for Logic, Language, and Computation](https://www.illc.uva.nl), and the [Informatics Institute](https://ivi.uva.nl). 
 Previously, I was a researcher at [Microsoft Research AI for Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) and at the [Partnership on AI](https://partnershiponai.org). 
 My PhD in explainable ML is from the [University of Amsterdam](https://www.uva.nl/en), supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Hinda Haned](https://hindantation.github.io). 
 My MSc and BSc are both in mathematics from [McMaster University](https://math.mcmaster.ca) in Canada, both supervised by [Miroslav Lovric](https://math.mcmaster.ca/lovric/lovric.html). 
+
+My current research interests include scientific machine learning, interpretability, and AI safety. I work on modeling real-world systems with machine learning and developing methods for understanding such models. 
 
 # News
 - **[Feb 2026]** Our [paper](https://arxiv.org/abs/2512.08923) on cross-modal inconsistency in multimodal LLMs has been accepted to CVPR 2026!
