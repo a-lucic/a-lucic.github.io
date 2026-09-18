@@ -37,4 +37,9 @@ profiles:
     name: Stein Pleiter
     title: BSc Informatics Student
 
+  - group: Alumni
+    image: mette_andersen.jpeg
+    name: Mette Friis Andersen
+    title: MSc Logic Student
+
 ---
