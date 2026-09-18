@@ -33,6 +33,7 @@ I am an [ELLIS](https://ellis.eu) member and part of the corresponding [Amsterda
 Previously, I was a researcher at [Microsoft Research AI for Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/), where I worked on [foundation models for Earth system modeling](https://www.nature.com/articles/s41586-025-09005-y) and at the [Partnership on AI](https://partnershiponai.org) where I worked on [explainable ML for healthcare](https://partnershiponai.org/studying-ai-explanations-to-improve-healthcare-for-underserved-communities%EF%BF%BC/). 
 My PhD in explainable ML is from the [University of Amsterdam](https://www.uva.nl/en) and my MSc and BSc are both in mathematics from [McMaster University](https://math.mcmaster.ca) in Canada.
 
-My current research interests include scientific machine learning, interpretability, and AI safety. 
-Our work combines methodological development in machine learning with applications in weather and climate modeling, molecular simulation, and fluid dynamics. 
-If you're interested in working together, please reach out via email. 
+My current research interests are primarily at the intersection of AI for science and ML interpretability. 
+My group works methodological development in machine learning with applications in weather and climate modeling, molecular simulation, and fluid dynamics. 
+I am also broadly interested in AI safety and am a mentor at [Safe AI Netherlands](https://safeainetherlands.org). 
+If you're a student (e.g., UvA MSc, ELLIS PhD) looking for a supervisor related to these topics, please reach out via email explaining your research interests and include your CV and complete transcript of grades. 
