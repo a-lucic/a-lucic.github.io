@@ -8,7 +8,7 @@ nav_order: 2
 
 profiles:
   - group: Current members
-    image: AL_headshot_1MB.jpeg
+    image: AL_headshot_1MB.jpg
     name: Ana Lucic
     title: Principal Investigator
 
