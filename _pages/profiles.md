@@ -16,7 +16,7 @@ profiles:
     image: ege_erdogan.jpeg
     name: Ege Erdogan
     title: PhD Student
-
+    
   - group: Current members
     image: emma_kasteleyn.jpeg
     name: Emma Kasteleyn
