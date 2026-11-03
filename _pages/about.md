@@ -38,7 +38,7 @@ My group works methodological development in machine learning with applications 
 I am also broadly interested in AI safety and am a mentor at [Safe AI Netherlands](https://safeainetherlands.org). 
 
 I regularly supervise thesis projects from motivated UvA MSc/BSc students with a strong academic record and an interest in the research topics listed above. 
-If you are interested, please email me with complete transcript and a description of what you want to work on. 
+If you are interested, please email me with a description of what you want to work on and a complete transcript of your grades. 
 I unfortunately do not have capacity to supervise MSc/BSc students from outside the UvA. 
 All PhD vacancies will be posted on the [University of Amsterdam's vacancy website](https://werkenbij.uva.nl/en/vacancies). I do not have any open PhD positions that are not posted on the UvA website. 
 Due to the enormous volume of emails I receive from prospective students, I cannot respond to every email. 
