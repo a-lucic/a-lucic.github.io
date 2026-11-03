@@ -37,8 +37,9 @@ My current research interests are primarily at the intersection of AI for scienc
 My group works methodological development in machine learning with applications in weather and climate modeling, molecular simulation, and fluid dynamics. 
 I am also broadly interested in AI safety and am a mentor at [Safe AI Netherlands](https://safeainetherlands.org). 
 
-All PhD vacancies will be posted on the [University of Amsterdam's vacancy website](https://werkenbij.uva.nl/en/vacancies). 
-If you're a UvA student looking for a supervisor related to these topics, please reach out via email explaining your research interests and include your CV and complete transcript of grades. 
+I regularly supervise thesis projects from motivated UvA MSc/BSc students with a strong academic record and an interest in the research topics listed above. 
+If you are interested, please email me with complete transcript and a description of what you want to work on. 
 I unfortunately do not have capacity to supervise MSc/BSc students from outside the UvA. 
+All PhD vacancies will be posted on the [University of Amsterdam's vacancy website](https://werkenbij.uva.nl/en/vacancies). I do not have any open PhD positions that are not posted on the UvA website. 
 Due to the enormous volume of emails I receive from prospective students, I cannot respond to every email. 
 Writing in your own words increases the probability of getting a response. 
