@@ -36,4 +36,9 @@ My PhD in explainable ML is from the [University of Amsterdam](https://www.uva.n
 My current research interests are primarily at the intersection of AI for science and ML interpretability. 
 My group works methodological development in machine learning with applications in weather and climate modeling, molecular simulation, and fluid dynamics. 
 I am also broadly interested in AI safety and am a mentor at [Safe AI Netherlands](https://safeainetherlands.org). 
-If you're a student (e.g., UvA MSc, ELLIS PhD) looking for a supervisor related to these topics, please reach out via email explaining your research interests and include your CV and complete transcript of grades. 
+
+All PhD vacancies will be posted on the [University of Amsterdam's vacancy website](https://werkenbij.uva.nl/en/vacancies). 
+If you're a UvA student looking for a supervisor related to these topics, please reach out via email explaining your research interests and include your CV and complete transcript of grades. 
+I unfortunately do not have capacity to supervise MSc/BSc students from outside the UvA. 
+Due to the enormous volume of emails I receive from prospective students, I cannot respond to every email. 
+Writing in your own words increases the probability of getting a response. 
